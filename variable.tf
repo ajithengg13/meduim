@@ -3,7 +3,7 @@ variable "resource_group_name" {
 }
 
 variable "resource_group_location" {
-  default = "easuus2"
+  default = "eastus2"
 
 variable "cosmos_db_account_name" {
   default = "ajithenggcfs"
