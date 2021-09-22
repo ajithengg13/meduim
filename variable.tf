@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  default = "medium"
+  default = "myproject3"
 }
 
 variable "resource_group_location" {
