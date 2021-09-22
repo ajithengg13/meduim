@@ -3,7 +3,7 @@ provider "azurerm" {
   
 }
 
-
+#resource group myproject3 is in eastus2
 
 resource "azurerm_cosmosdb_account" "acc" {
 
