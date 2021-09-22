@@ -3,7 +3,7 @@ variable "resource_group_name" {
 }
 
 variable "resource_group_location" {
-  default = "eastus2"
+  default = "centralindia"
 
 variable "cosmos_db_account_name" {
   default = "ajithenggcfs"
