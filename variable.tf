@@ -3,11 +3,10 @@ variable "resource_group_name" {
 }
 
 variable "resource_group_location" {
-  default = "centralindia"
-}
+  default = "easuus2"
 
 variable "cosmos_db_account_name" {
-  default = "cosmosmongodb"
+  default = "ajithenggcfs"
 }
 
 variable "failover_location" {
